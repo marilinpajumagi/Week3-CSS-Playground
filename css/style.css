@@ -1,0 +1,52 @@
+body {
+    background-color: lightblue;
+    display: grid;
+}
+
+.kuklid {
+    color: blue;
+    text-align: center;
+    font-family: "Jost", sans-serif;
+}
+
+.image {
+    text-align: center;
+}
+
+.nimekiri {
+    text-align: left;
+    margin: auto;
+}
+
+.maintable {
+    color: blue;
+    text-align: center;
+    font-family: "Jost", sans-serif;
+    background-color: lightcyan;
+    margin: auto;
+}
+
+.text {
+    display: grid;
+    text-align: center;
+    width: 800px;
+    padding-left: 350px;
+}
+
+.notmaintable {
+    color: blue;
+    text-align: center;
+    font-family: "Jost", sans-serif;
+    background-color: lightcyan;
+    margin: auto;
+}
+
+.link {
+    text-align: center;
+    font-size:large;
+}
+
+.footer {
+    color: blue;
+    text-align: center;
+}
